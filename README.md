@@ -15,5 +15,5 @@
       <a href="https://discord.com/users/326884507376418848" target = "_blank"> 
             <img width="30" height="30" src="https://i.imgur.com/j7e6uK2.gif" alt="Discord image"> </a>
       <a href="https://none" target = "_blank"> 
-            <img width="30" height="30" src="CLIPLY_372109260_TWITTER_LOGO_1080.gif" alt="Twitter image"> </a>
+            <img width="30" height="30" src="https://i.imgur.com/dz8IKXH.gif" alt="Twitter image"> </a>
 </div>
