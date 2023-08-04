@@ -14,4 +14,5 @@
       <!--<span> Titulo da primeira imagem </span>-->
       <img width="30" height="30" src="371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif">
       <!--<span> Titulo da segunda imagem </span>-->
+      <img width="30" height="30" src="372108630_DISCORD_LOGO_WHITE_1080.gif">
 </div>
