@@ -10,7 +10,7 @@
 
 ### Social Media
 <div>
-      <img width="30" height="30" src="CLIPLY_372109260_TWITTER_LOGO_1080.gif">
+      <a href="google.com"> <img width="30" height="30" src="CLIPLY_372109260_TWITTER_LOGO_1080.gif"> </a>
       <!--<span> Titulo da primeira imagem </span>-->
       <img width="30" height="30" src="371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif">
       <!--<span> Titulo da segunda imagem </span>-->
