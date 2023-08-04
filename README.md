@@ -12,7 +12,7 @@
 <div>
       <a href="https://www.google.com"> <img width="30" height="30" src="CLIPLY_372109260_TWITTER_LOGO_1080.gif"> </a>
       <!--<span> Titulo da primeira imagem </span>-->
-      <img width="30" height="30" src="371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif">
+      <a href="https://www.instagram.com/le.saturn/"> <img width="30" height="30" src="371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif"> </a>
       <!--<span> Titulo da segunda imagem </span>-->
       <img width="30" height="30" src="372108630_DISCORD_LOGO_WHITE_1080.gif">
 </div>
