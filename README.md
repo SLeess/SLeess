@@ -10,7 +10,7 @@
 
 ### Social Media
 <div>
-      <a href="https://www.google.com"> <img width="30" height="30" src="CLIPLY_372109260_TWITTER_LOGO_1080.gif"> </a>
+      <a href="https://discord.com/users/326884507376418848"> <img width="30" height="30" src="CLIPLY_372109260_TWITTER_LOGO_1080.gif"> </a>
       <!--<span> Titulo da primeira imagem </span>-->
       <a href="https://www.instagram.com/le.saturn/"> <img width="30" height="30" src="371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif"> </a>
       <!--<span> Titulo da segunda imagem </span>-->
