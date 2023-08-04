@@ -17,3 +17,6 @@
       <a href="https://none" target = "_blank"> 
             <img width="30" height="30" src="https://i.imgur.com/dz8IKXH.gif" alt="Twitter image"> </a>
 </div>
+
+## After That
+![dmc](https://i.redd.it/hs2dyhagifs31.gif)
