@@ -1,4 +1,6 @@
-## <p align = center> Leandro Durães Freitas </p>
+<div>
+      <h2><img width="40" height="30" src="https://thumbs.gfycat.com/WhichUniformImpala-max-1mb.gif" alt="dmc Image">  Leandro Durães Freitas</h2>
+</div>
 
 ### Description
 - 👋 Hi, I’m @Lsen
@@ -18,5 +20,4 @@
             <img width="30" height="30" src="https://i.imgur.com/dz8IKXH.gif" alt="Twitter image"> </a>
 </div>
 
-## After That
 ![dmc](https://i.redd.it/hs2dyhagifs31.gif)
