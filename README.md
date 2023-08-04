@@ -1,10 +1,5 @@
 ## <p align = center> Leandro Durães Freitas </p>
 
-‎ 
-‎ 
-‎ 
-‎ 
-
 ### Description
 - 👋 Hi, I’m @Lsen
 - 👀 I’m interested in learning about programming
@@ -13,6 +8,10 @@
 - 📫 How to reach me - Use my Discord: @S'#7731
 
 
-### Social Medias
-- a
-- b
+### Social Media
+<div>
+      <img width="30" height="30" src="CLIPLY_372109260_TWITTER_LOGO_1080.gif">
+      <!--<span> Titulo da primeira imagem </span>-->
+      <img width="30" height="30" src="CLIPLY_372109260_TWITTER_LOGO_1080.gif">
+      <!--<span> Titulo da segunda imagem </span>-->
+</div>
