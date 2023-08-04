@@ -8,7 +8,7 @@
 - 📫 How to reach me - Use my Discord: @S'#7731
 
 
-### Social Media
+### Social Medias
 <div>
       <!--<span> Titulo da primeira imagem </span>-->
       <a href="https://www.instagram.com/le.saturn/"> <img width="30" height="30" src="371907300_INSTAGRAM_ICON_TRANSPARENT_1080.gif"> </a>
