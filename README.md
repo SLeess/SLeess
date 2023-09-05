@@ -9,6 +9,9 @@
 - 💞️ I’m looking to collaborate on the develop world.
 - 📫 How to reach me - Use my Discord: @essi_stov
 
+![SLeess's Stats](https://github-readme-stats.vercel.app/api?username=SLeess&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![SLeess's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SLeess&theme=dark&hide_border=true)
+
 ### Social Medias
 <div>
       <!--<span> Titulo da primeira imagem </span>-->
