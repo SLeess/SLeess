@@ -24,5 +24,5 @@
 </div>
 <hr>
 <div align="middle">
-      <img width="600" height="400" src="https://i.redd.it/hs2dyhagifs31.gif" alt="dmc image"> </a>
+      <img width="600" height="400" src="https://media.tenor.com/R7ltqpBEtXsAAAAM/пессосун.gif" alt="dmc image"> </a>
 </div>
