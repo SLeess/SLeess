@@ -1,5 +1,5 @@
 <div>
-      <h2>Power is dominate the technologie.</h2>
+      <h2>Power is mastering technology.</h2>
 </div>
 
 <a target="_blank" align="center">
