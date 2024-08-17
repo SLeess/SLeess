@@ -21,10 +21,8 @@ I'm also learning to use Docker and Ubuntu OS.
 
 And yet, I'm looking to collaborate on the develop world.
 
-<!--![SLeess's Stats](https://github-readme-stats.vercel.app/api?username=SLeess&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![SLeess's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SLeess&theme=dark&hide_border=true)-->
 
-<br><br>
+<br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SLeess&show_icons=true&theme=dark&locale=en&layout=compact" alt="SLeess" /></p>
 
 <h3 align="center">Social Medias</h3>
