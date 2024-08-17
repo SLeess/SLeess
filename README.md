@@ -31,6 +31,3 @@ And yet, I'm looking to collaborate on the develop world.
             <img width="30" height="30" src="https://i.imgur.com/dz8IKXH.gif" alt="Twitter image"> </a>
 </div>
 <hr>
-<div align="middle">
-      <img width="600" height="400" src="https://i.redd.it/hs2dyhagifs31.gif" alt="dmc image"> </a>
-</div>
