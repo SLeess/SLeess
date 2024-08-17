@@ -5,7 +5,7 @@
 ### Description
 - 👋 Hi, I’m @Lsen
 - 👀 I’m interested in learning about programming
-- 🌱 I’m currently learning C#, Java and Python language.
+- 🌱 I’m currently learning C#, Java, Python language, and specially Laravel Framework.
 - 💞️ I’m looking to collaborate on the develop world.
 - 📫 How to reach me - Use my Discord: @essi_stov
 
