@@ -1,13 +1,21 @@
 <div>
-      <h2><img width="40" height="30" src="https://thumbs.gfycat.com/WhichUniformImpala-max-1mb.gif" alt="dmc Image">  Leandro Durães Freitas</h2>
+      <h2>Power is dominate the technologie.</h2>
 </div>
 
 ### Description
-- 👋 Hi, I’m @Lsen
-- 👀 I’m interested in learning about programming
-- 🌱 I’m currently learning C#, Java, Python language, and specially Laravel Framework.
-- 💞️ I’m looking to collaborate on the develop world.
-- 📫 How to reach me - Use my Discord: @essi_stov
+Hi, My name's @Lsen, interested in learning about programming and technologies.
+
+### Languages and Systems
+I’m currently learning C#, Java, Python language, and specially Laravel Framework.
+I'm also learning to use Docker and Ubuntu OS.
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,git,docker,c,java,mysql,ubuntu" />
+  </a>
+</p>
+
+And yet, I'm looking to collaborate on the develop world.
 
 <!--![SLeess's Stats](https://github-readme-stats.vercel.app/api?username=SLeess&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![SLeess's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SLeess&theme=dark&hide_border=true)-->
