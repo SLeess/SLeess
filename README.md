@@ -2,6 +2,10 @@
       <h2>Power is dominate the technologie.</h2>
 </div>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="350" width="450" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 ### Description
 Hi, My name's @Lsen, interested in learning about programming and technologies.
 
@@ -20,8 +24,11 @@ And yet, I'm looking to collaborate on the develop world.
 <!--![SLeess's Stats](https://github-readme-stats.vercel.app/api?username=SLeess&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![SLeess's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SLeess&theme=dark&hide_border=true)-->
 
-### Social Medias
-<div>
+<br><br><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SLeess&show_icons=true&theme=dark&locale=en&layout=compact" alt="SLeess" /></p>
+
+<h3 align="center">Social Medias</h3>
+<div align="center">
       <!--<span> Titulo da primeira imagem </span>-->
       <a href="https://www.instagram.com/leanw.s/ " target = "_blank"> 
             <img width="30" height="30" src="https://i.imgur.com/b4OTVBh.gif" alt="Instagram image"> </a>
