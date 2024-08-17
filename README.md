@@ -3,7 +3,7 @@
 </div>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="380" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 ### Description
@@ -24,7 +24,7 @@ And yet, I'm looking to collaborate on the develop world.
 <!--![SLeess's Stats](https://github-readme-stats.vercel.app/api?username=SLeess&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![SLeess's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SLeess&theme=dark&hide_border=true)-->
 
-<br><br><br>
+<br><br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SLeess&show_icons=true&theme=dark&locale=en&layout=compact" alt="SLeess" /></p>
 
 <h3 align="center">Social Medias</h3>
