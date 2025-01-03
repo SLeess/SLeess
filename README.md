@@ -1,5 +1,5 @@
 <div>
-      <h2>Power is mastering technology.</h2>
+      <h2>About me:</h2>
 </div>
 
 <a target="_blank" align="center">
