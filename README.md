@@ -12,8 +12,8 @@ Hi, My name's @Lsen, interested in learning about programming and technologies.
 ### Languages and Systems
 I’m currently learning C#, Java, Python language, and specially Laravel Framework.
 I'm also learning to use Docker and Ubuntu OS.
-
-<p align="left">
+<br><Br>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,php,javascript,react,mysql,ubuntu,git,figma,c,docker" />
   </a>
