@@ -15,7 +15,7 @@ I'm also learning to use Docker and Ubuntu OS.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,git,docker,c,java,mysql,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,javascript,react,mysql,ubuntu,git,figma,c,docker" />
   </a>
 </p>
 
