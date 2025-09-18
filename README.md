@@ -10,7 +10,7 @@
 Hi, My name's @Lsen, interested in learning about programming and technologies.
 
 ### Languages and Systems
-I’m currently learning C#, Java, Python language, and specially Laravel Framework.
+Currently, I'm primarily learning PHP, using the Laravel framework, and JavaScript, using React JS. I'm also studying C#, Java, and Python..
 I'm also learning to use Docker and Ubuntu OS.
 And yet, I'm looking to collaborate on the develop world.
 
