@@ -40,11 +40,11 @@ Third-party APIs, fiscal/government web services, webhooks and asynchronous work
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SLeess&show_icons=true&theme=dark&locale=en&layout=compact" alt="SLeess" /></p>
 
 <!-- <h3 align="center">Social Medias</h3> -->
-<!-- <div align="center"> -->
-      <!--<span> Titulo da primeira imagem </span>-->
-      <!-- <a href="https://discord.com/users/326884507376418848" target = "_blank">  -->
-            <!-- <img width="30" height="30" src="https://i.imgur.com/j7e6uK2.gif" alt="Discord image"> </a> -->
-      <!--<a href="https://none" target = "_blank"> 
-            <img width="30" height="30" src="https://i.imgur.com/dz8IKXH.gif" alt="Twitter image"> </a>-->
-<!-- </div> -->
+<!-- <div align="center">
+      <span> Titulo da primeira imagem </span>
+      <a href="https://discord.com/users/326884507376418848" target = "_blank">
+            <img width="30" height="30" src="https://i.imgur.com/j7e6uK2.gif" alt="Discord image"> </a>
+      <a href="https://none" target = "_blank"> 
+            <img width="30" height="30" src="https://i.imgur.com/dz8IKXH.gif" alt="Twitter image"> </a>
+</div> -->
 <!-- <hr> -->
