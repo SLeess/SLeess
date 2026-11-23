@@ -17,7 +17,7 @@ And yet, I'm looking to collaborate on the develop world.
 <br><Br><br><Br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,javascript,react,mysql,ubuntu,git,figma,c,docker" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,javascript,react,mysql,ubuntu,git,figma,c,docker,typescript,grafana,next,linux,nginx,cloudflare,postman,vite" />
   </a>
 </p>
 
