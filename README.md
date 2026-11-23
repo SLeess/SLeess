@@ -6,13 +6,28 @@
   <img align="right" top="500" height="300" width="380" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-### Description
-Hi, My name's @Lsen, interested in learning about programming and technologies.
+Software Engineer focused on resilient backends, complex business logic and the infrastructure they run on, from the application layer down to the network.
 
-### Languages and Systems
-Currently, I'm primarily learning PHP, using the Laravel framework, and JavaScript, using React JS. I'm also studying C#, Java, and Python..
-I'm also learning to use Docker and Ubuntu OS.
-And yet, I'm looking to collaborate on the develop world.
+**Complex Business Logic & Enterprise Backends**
+Designing maintainable, multi-tenant systems in PHP (Laravel) and TypeScript/Node.js. I work on intricate transactional domains: scheduling, billing, financial settlement and fiscal document issuance (NFS-e) with strict consistency rules.
+
+**Frontend & Full-Stack Delivery**
+Building the TypeScript/React side of these systems and covering critical flows with automated end-to-end tests (Playwright), so releases ship with confidence.
+
+**Infrastructure, Networking & Self-Hosted Platforms**
+Running production on my own virtualized infrastructure (Proxmox) instead of only consuming managed services:
+- Virtualization and LXC/VM lifecycle management on Proxmox
+- Network design and configuration: VLANs, routing, firewall rules, DNS
+- Secure private connectivity between sites and services with WireGuard
+- Nginx and reverse proxies: TLS termination, routing, hardening
+- Database replication and high-availability setups, plus backup and restore strategies
+- Docker and Dockerfiles for reproducible environments, separating homologation from production
+
+**CI/CD & Automation**
+Automated pipelines for build, test and deploy, with Git Flow branching, conventional commits and PR-based delivery.
+
+**Integrations**
+Third-party APIs, fiscal/government web services, webhooks and asynchronous workflows.
 
 <br><Br><br><Br>
 <p align="center">
