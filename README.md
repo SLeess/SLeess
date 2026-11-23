@@ -1,16 +1,35 @@
-## Hi there 👋
+<div>
+      <h2>About me:</h2>
+</div>
 
-<!--
-**SLeess/SLeess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="380" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-Here are some ideas to get you started:
+### Description
+Hi, My name's @Lsen, interested in learning about programming and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Systems
+Currently, I'm primarily learning PHP, using the Laravel framework, and JavaScript, using React JS. I'm also studying C#, Java, and Python..
+I'm also learning to use Docker and Ubuntu OS.
+And yet, I'm looking to collaborate on the develop world.
+
+<br><Br><br><Br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,javascript,react,mysql,ubuntu,git,figma,c,docker" />
+  </a>
+</p>
+
+<br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SLeess&show_icons=true&theme=dark&locale=en&layout=compact" alt="SLeess" /></p>
+
+<h3 align="center">Social Medias</h3>
+<div align="center">
+      <!--<span> Titulo da primeira imagem </span>-->
+      <a href="https://discord.com/users/326884507376418848" target = "_blank"> 
+            <img width="30" height="30" src="https://i.imgur.com/j7e6uK2.gif" alt="Discord image"> </a>
+      <!--<a href="https://none" target = "_blank"> 
+            <img width="30" height="30" src="https://i.imgur.com/dz8IKXH.gif" alt="Twitter image"> </a>-->
+</div>
+<hr>
